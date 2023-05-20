@@ -1,5 +1,5 @@
 # OoT Reloaded (SoH)
-Ocarina of Time Reloaded texture pack for the Ocarina of Time PC port: Ship of Harkinian.
+Ocarina of Time Reloaded is an Ultra HD texture pack for [GLideN64](https://github.com/GhostlyDark/OoT-Reloaded) and Ship of Harkinian.
 
 
 ## Use OTR file
@@ -11,7 +11,7 @@ Prebuilt OTR files may not work using other than the targeted SoH releases, in w
 
 
 ## Generate from PNG source
-1) Install SoH by generating both `oot.otr` and `oot-mq.otr` using:
+1. Install SoH by generating both `oot.otr` and `oot-mq.otr` using:
 
 ```
 Legend of Zelda, The - Ocarina of Time (Europe) (GameCube).z64 (MD5: 2c27b4e000e85fd78dbca551f1b1c965)
