@@ -1,6 +1,8 @@
 # OoT Reloaded (SoH)
 Ocarina of Time Reloaded is an Ultra HD texture pack for [GLideN64](https://github.com/GhostlyDark/OoT-Reloaded) and Ship of Harkinian.
 
+![](/oot-reloaded-soh.jpg)
+
 
 ## Use OTR file
 Requires at least SoH `v7.0.0`. The OTR file goes into the `mods` directory.
