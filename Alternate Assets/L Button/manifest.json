@@ -7704,7 +7704,7 @@
     "textureHeight": 32
   },
   "overlays/ovl_Oceff_Spot/sTex": {
-    "hash": "efb7f7ca40ee2feb26783bbe2352ccec2e900d1058bb1d9f5eb6f38ebdf90430",
+    "hash": "ead7a552fbf3443cbf24e2778159680e3584864048815ca1892161efcd97053d",
     "textureType": 6,
     "textureWidth": 32,
     "textureHeight": 32
@@ -11814,7 +11814,7 @@
     "textureHeight": 85
   },
   "code/z_fbdemo_circle/sTransCircleNormalTex": {
-    "hash": "1f099a0c2b14cf1857391f8a9bf72f2f531b2713f268538e2087f9c2eb60d7a9",
+    "hash": "324aaaf78e1d1875fdeb136af626fc21c33e3291e5f958fea5e2e2d46398a13c",
     "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 64
@@ -16686,7 +16686,7 @@
     "textureHeight": 8
   },
   "overlays/ovl_Oceff_Wipe3/sTex": {
-    "hash": "b07d511c769a2c55cca5ee35a1009c260de411f1320a9b77a490dc00caf99e62",
+    "hash": "e8b2517c60eed18e88f60f9eb48514ec9b6a8334951fb208f6e236c6f6c3b87c",
     "textureType": 6,
     "textureWidth": 64,
     "textureHeight": 64
@@ -19674,7 +19674,7 @@
     "textureHeight": 32
   },
   "code/z_fbdemo_circle/sTransCircleWaveTex": {
-    "hash": "1b14fec02d94647f9394464bc343ae7f90ee07947fda3c5fa0e7012cdd9d69e9",
+    "hash": "6c0d691f3b32457a4b00e1d1a0f8856d8d7e6619f9e1ce865074a65715a0f68d",
     "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 64
@@ -42984,7 +42984,7 @@
     "textureHeight": 32
   },
   "code/z_fbdemo_circle/sTransCircleRippleTex": {
-    "hash": "69cf0692248d694f75c944d6f12ef11dd89ab47a5f6198d525bf63f2161d51e8",
+    "hash": "0b6d2ae05af6c9815c90621ad8b9332f113dfeac57020eacddbebdb49172b536",
     "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 64
@@ -49248,7 +49248,7 @@
     "textureHeight": 32
   },
   "code/z_fbdemo_circle/sTransCircleStarburstTex": {
-    "hash": "dc440d66f83a8563ded2f04fa290968edc10d8133350c64dd3e59d753f362422",
+    "hash": "76dc415002489b18970e15a60ec50e86dcf073d5106125482cf5300e566713a8",
     "textureType": 6,
     "textureWidth": 16,
     "textureHeight": 64
@@ -53188,12 +53188,6 @@
     "textureType": 2,
     "textureWidth": 4,
     "textureHeight": 4
-  },
-  "overlays/ovl_Bg_Ganon_Otyuka/ovl_Bg_Ganon_OtyukaTex_001110": {
-    "hash": "95a0ffa0d808e955a73e2197c7675591fa34a8194f10445deeb2bea4665329ae",
-    "textureType": 2,
-    "textureWidth": 32,
-    "textureHeight": 32
   },
   "overlays/ovl_Boss_Ganon/ovl_Boss_GanonTex_020770": {
     "hash": "cbc99b169c6b577d1b486392985df68a7106ee3f61932ffc9ee2644b29b16f0a",
@@ -59640,7 +59634,7 @@
     "textureHeight": 32
   },
   "overlays/ovl_En_Ganon_Mant/gMantUnusedTex": {
-    "hash": "bb5ba1f10f9947ef675b8aec7fff16dfe051210fda6c586ee08cbc835623eb74",
+    "hash": "7acf133284c911c1e787868ddd72655cf4224a8721b73d42d24cfae6978369b2",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 32
@@ -75432,7 +75426,7 @@
     "textureHeight": 64
   },
   "overlays/ovl_En_Ganon_Mant/gMantTex": {
-    "hash": "636607dded7216eabf66d7d92663306366c7547e59d6bd8a3d31105fcacf3537",
+    "hash": "c74082866c4dccf63c703f57cc34ed3415cc797a48aab6c6a9aedb0d30ad0f9b",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
