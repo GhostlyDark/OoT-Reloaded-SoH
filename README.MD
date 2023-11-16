@@ -9,7 +9,7 @@ Requires SoH `v8.0.0` or newer. OTR files go into the `mods` directory. The orde
 
 
 ## OTR releases
-- `Link Eyes`: Remove it to fix potential eye issues using custom Link models
+- `Link (Animated Textures)`: Remove it to fix potential eye and mouth texture issues using custom Link models
 - `L Button`: Remove it if you prefer having Z button textures
 - `New Gerudo Symbol`: Remove it if you prefer the old Crescent Moon symbol
 
