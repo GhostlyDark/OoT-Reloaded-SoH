@@ -47988,9 +47988,9 @@
     "textureHeight": 32
   },
   "overlays/ovl_Boss_Dodongo/sLavaFloorLavaTex": {
-    "hash": "5e5dacb11b9460d4d11f4fb2bb392f11c8be4adb28c4fd20c365ab1418f8ca22",
+    "hash": "58830bb2dc18e2472eec4c238116bd3e8471f929d9d620d47867203d2697ba3f",
     "textureType": 2,
-    "textureWidth": 64,
+    "textureWidth": 32,
     "textureHeight": 64
   },
   "textures/item_name_static/gMasterSwordItemNameFRATex": {
@@ -62328,7 +62328,7 @@
     "textureHeight": 32
   },
   "overlays/ovl_Boss_Dodongo/sLavaFloorRockTex": {
-    "hash": "98e99ab54c6c1222d3c3dc8555c7759d81e73106a31cc0d9c1fa6d96aa1568da",
+    "hash": "c70a42caacd69d56a6dc69feac018a2a3150a50f0450d5edc01d1e9c27af8bbe",
     "textureType": 2,
     "textureWidth": 32,
     "textureHeight": 64
