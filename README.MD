@@ -11,7 +11,7 @@ Requires SoH `v9.0.1` or newer. O2R files go into the `mods` directory. The orde
 ## Convert textures from PNG source
 
 Only for advanced users. If you simply want to install the pack, grab it from [here](https://github.com/GhostlyDark/OoT-Reloaded-SoH/releases/latest) instead.
-If you wish to generate ready to use textures from source, you are required to download an run [retro](https://github.com/HarbourMasters/retro/releases/latest).
+If you wish to generate ready to use textures from source, you are required to download and run [retro](https://github.com/HarbourMasters/retro/releases/latest).
 
 
 ### Update manifest.json
